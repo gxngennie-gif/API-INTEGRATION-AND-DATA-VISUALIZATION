@@ -37,3 +37,6 @@ Converts time into proper format
 Plots two separate graphs:
 Temperature vs Time
 Humidity vs Time
+
+#output
+<img width="637" height="603" alt="Image" src="https://github.com/user-attachments/assets/7ec00d4f-bd37-4841-a985-dfe0fad9d405" />
